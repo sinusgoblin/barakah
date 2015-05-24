@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>57749CB3-EA7F-416E-B372-B2B6B2768B3A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>barakah</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96107441B343F8044F150FA2D3ED70D7F60C61DD</key>
+		<string>https://github.com/sinusGob/BasicIphoneApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>barakah.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96107441B343F8044F150FA2D3ED70D7F60C61DD</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/sinusGob/BasicIphoneApp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>96107441B343F8044F150FA2D3ED70D7F60C61DD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96107441B343F8044F150FA2D3ED70D7F60C61DD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>barakah</string>
+		</dict>
+	</array>
+</dict>
+</plist>
